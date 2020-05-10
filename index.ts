@@ -3,7 +3,7 @@
 // Import stylesheets
 import './style.css';
 import { User } from './User';
-import { SubscriptionTypes } from './enums/SubscriptionTypes';
+import { SubscriptionType } from './enums/SubscriptionType.enum';
 
 
 
