@@ -4,3 +4,4 @@ export enum SubscriptionType {
   FREETRIAL = 10,
   FREELIMITED = 0
 }
+
